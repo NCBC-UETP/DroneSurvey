@@ -23,10 +23,10 @@
 |338     |1665581223  |34.0222213  |71.4704767  |   305   |    AUTO     |
 
 
-<img src="109.jpg" alt="drawing" width="500"/>
-<img src="112.jpg" alt="drawing" width="500"/>
-<img src="115.jpg" alt="drawing" width="500"/>
-<img src="117.jpg" alt="drawing" width="500"/>
-<img src="119.jpg" alt="drawing" width="500"/>
+<img src="imagery/109.jpg" alt="drawing" width="500"/>
+<img src="imagery/112.jpg" alt="drawing" width="500"/>
+<img src="imagery/115.jpg" alt="drawing" width="500"/>
+<img src="imagery/117.jpg" alt="drawing" width="500"/>
+<img src="imagery/119.jpg" alt="drawing" width="500"/>
 
 
